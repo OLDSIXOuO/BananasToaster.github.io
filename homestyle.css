@@ -19,7 +19,7 @@
     height: 10%;
     width: 100%;
     background-color: rgb(35, 35, 35);
-    font-family: "Century Gothic";
+    font-family: "Century Gothic", "Arial";
 }
 
 .header h1{
@@ -42,7 +42,7 @@
 
 .btext{
     font-size: 100px;
-    font-family: "Century Gothic";
+    font-family: "Century Gothic", "Arial";
     color:#fff; 
     position: absolute;
     text-align: center;
