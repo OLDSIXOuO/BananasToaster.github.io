@@ -19,7 +19,7 @@
     height: 10%;
     width: 100%;
     background-color: rgb(35, 35, 35);
-    font-family: "Century Gothic", "Arial";
+    font-family: "Century Gothic", "Arial", "sans-serif";
 }
 
 .header h1{
