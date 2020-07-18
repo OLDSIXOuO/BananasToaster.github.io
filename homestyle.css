@@ -30,23 +30,25 @@
 }
 
 .header a{
-    font-size: 7vh;
-    text-align: left;
+    text-align: center;
+    font-size: 5vh;
+    display: inline-flex;
     position: absolute;
+    top: 1.5vh;
     text-transform: uppercase;
-    color: #EA66FF;
+    color: #ffffff;
     font-weight: 500;
     text-decoration: none;
     animation: transitionIn 1s;
 }
 
 .btext{
-    font-size: 100px;
+    font-size: 40px;
     font-family: "Century Gothic", "Arial";
     color:#fff; 
     position: absolute;
     text-align: center;
-    top: 20%;
+    top: 40%;
     width: 100%;
     animation: transitionIn 1s;
     

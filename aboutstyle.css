@@ -77,12 +77,10 @@ body{
 .background ul li{
     font-size: 50px;
     font-weight: 1000;
-    background-image: linear-gradient(to left, #f3c6f2, #efa6b6, #bd98e0, #8d90e2, #7554ae);
-    -webkit-background-clip: text;
-    animation: textwoosh 10s linear infinite;
+    animation: textwoosh 5s linear infinite;
     animation: transitionIn 1s;
     background-size: 1000%;
-    color: transparent;
+    color: #fff;
 }
 
 .background ul p{

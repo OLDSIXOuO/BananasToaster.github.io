@@ -31,7 +31,7 @@
 }
 
 body{
-    font-family: "Century Gothic", "Arial";
+    font-family: "Century Gothic", "Arial", "sans-serif";
 }
 
 .banner{
@@ -56,7 +56,7 @@ body{
 .banner h2{
     text-align: center;
     font-size: 50px;
-    margin-top: 20%;
+    margin-top: 19%;
     color: #fff;
     animation: transitionIn 1s;
     text-shadow: 0 0px 0 rgba(0, 0, 0, 5);
